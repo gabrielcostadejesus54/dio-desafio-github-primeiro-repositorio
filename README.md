@@ -1,6 +1,7 @@
 # Repositório do desafio de projeto sobre git/github da DIO
-Desafio de projeto sobre GIT/Github 
+neste repositório terá anotções sobre como trabalhar em equipes ageis.
 
 ## Links úteis
 
-[Sintax básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Curso Trabalhando com equipes ageis da DIO](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
+
